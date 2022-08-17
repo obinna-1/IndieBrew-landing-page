@@ -59,7 +59,7 @@ h3, .check{
     color: #797ef6;
     cursor: pointer;
 }
-.btn{
+input[type=button]{
     background-color: #797ef6;
     border: none;
     border-radius: 5px;
